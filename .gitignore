@@ -1,0 +1,11 @@
+__pycache__
+*.sqlite3
+*.log
+migrations
+_data
+_log
+
+*.swp
+.idea
+.bash_history
+.env
